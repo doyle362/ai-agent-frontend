@@ -1,1 +1,1 @@
-export default function Chat() { return <div>Chat</div>; }
+export default function Chat() { return <div>Chat Page</div>; }

@@ -1,1 +1,1 @@
-export default function AgentForm() { return <div>Create Agent</div>; }
+export default function AgentForm() { return <div>Create Agent Page</div>; }
